@@ -1,4 +1,4 @@
-# Infinity Deadpool
+# Rick and Morty en La Nacho
 
 ## Execution
 Executing this project can be easily done by running it using Python:
